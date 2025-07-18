@@ -12,6 +12,7 @@ def createfolders(path):
      :return: none
 
     '''
+    
     for i in range(5):
         j=os.path.join(path,f"dir{i+1}")
         os.makedirs(j,exist_ok=True)
@@ -20,6 +21,7 @@ def createfolders(path):
 def deletehalf(path):
     '''
     this function for delete the random of half folders in main folder
+
     :parameter: takes the path we want to delete subfolders from 
     :parameter type: string storing the path
     :if the input form user not valid: it will give and error because of we are dealing with os libirary
