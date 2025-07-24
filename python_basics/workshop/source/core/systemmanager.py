@@ -1,5 +1,5 @@
-from student import Student
-from courses import Course
+from ..model.courses import Course
+from ..model.student import Student
 
 class SystemManager:
     def __init__(self):
@@ -88,15 +88,15 @@ class SystemManager:
         print(f"Student {student.name.capitalize()} have cousrses {student.courses}")
 
 
-# m=SystemManager()
-# m.add_course("DS")
-# m.add_course("ML")
-# m.add_student("fares")
-# m.add_student("ali")
-# m.enroll_studentToCourse(1,1)
-# m.enroll_studentToCourse(1,2)
-# m.enroll_studentToCourse(2,1)
-# m.show_students()
-# m.show_courses()
-# m.students_InCourses(1)
-# m.student_courses(1)
+m=SystemManager()
+m.add_course("DS")
+m.add_course("ML")
+m.add_student("fares")
+m.add_student("ali")
+m.enroll_studentToCourse(1,1)
+m.enroll_studentToCourse(1,2)
+m.enroll_studentToCourse(2,1)
+m.show_students()
+m.show_courses()
+m.students_InCourses(1)
+m.student_courses(1)

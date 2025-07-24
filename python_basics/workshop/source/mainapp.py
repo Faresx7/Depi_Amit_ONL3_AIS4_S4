@@ -1,5 +1,5 @@
-from systemmanager import SystemManager
 import os
+from core.systemmanager import SystemManager
 def clearsreen():
     os.system("cls")
 class core:
