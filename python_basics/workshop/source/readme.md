@@ -11,6 +11,9 @@ it contains 3 classes
 
 finally we have the main class that contains the interface the user deal with 
 main class contains 3 main functions.
+
 FIRST -- to display the table of students and courses
+
 SECOND -- contains the main menu the. 
+
 THIRD -- the main program that allow the user to choose what he want to do and make call another class to do the task user chosen.
