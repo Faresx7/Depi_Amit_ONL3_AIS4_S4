@@ -1,5 +1,5 @@
-from ..model.courses import Course
-from ..model.student import Student
+from model.course import Course
+from model.student import Student
 
 class SystemManager:
     def __init__(self):
