@@ -1,2 +1,2 @@
-from .core import *
-from .model import *
+from core import *
+from model import *
