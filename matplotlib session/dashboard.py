@@ -71,3 +71,4 @@ def update_pie(col):
 
 if __name__=='__main__':
     app.run(debug=True)
+
