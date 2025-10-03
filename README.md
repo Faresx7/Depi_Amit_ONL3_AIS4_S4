@@ -12,9 +12,14 @@ currently focused on
 ## 🧑🏼‍💻 The technologies and tools I'm working with the most:
 
 Core Languages: Python and SQL
+
+
 Analysis tools: pandas, matplotlib, numpy, VS Code, Jupyter Notebook and Excel
+
 Visualization tools: matplotlib, seaborn, plotly
+
 Dashboard tools: Streamlit, Dash, Power BI
+
 ML tools: Scikit-learn, TensorFlow and PyTorch
 
 
