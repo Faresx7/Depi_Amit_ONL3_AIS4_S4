@@ -1,7 +1,7 @@
 # 👋 Hello and Welcome to My GitHub Profile!
 I'm **Fares**
 I am a **AI & Data Scientist**
-This is my Repository, where I display all my projects and ideas.
+This is my Repository, where I Store all my Course Sessions and projects.
 
 💻 Focus
 
@@ -19,22 +19,9 @@ ML tools: Scikit-learn, TensorFlow and PyTorch
 
 
 ## 🎯 What You'll Find Here (Key Projects)
-Below are a few projects that showcase my skills and interests:
 
-- Exploratory Data Analysis (EDA) on the Marathons Dataset:
-(Conducted exploratory data analysis on Marathons dataset to uncover trends in participation, performance, and demographics over time, providing actionable insights for what has happened in the last 4 decades in Marathons.)
+All my AI & Data Science materials and codes
 
-- Data cleaning:
-(Cleaning datasets and optimizing their features to be accurate.)
-
-
-- Tic-Tac-Toe game: 
-(Small Tic-Tac-Toe that learned me a lot about project management)
-
-"I believe that good code should be as easy to read as it is to write." ✍️
-
-🤝 Let's Connect!
-I'm always excited about new projects, collaborations, and learning opportunities. Feel free to reach out with any questions or proposals!
 
 Email: 
 (FaresEsaam001@gmail.com)
@@ -45,4 +32,3 @@ LinkedIn:
 Portfolio: 
 [Fares Esaam](https://www.canva.com/design/DAGyUXOtMjA/xQUc_VeThMWoajobp8_M6g/edit?utm_content=DAGyUXOtMjA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Thanks for stopping by! I hope you like my repo. 😉
