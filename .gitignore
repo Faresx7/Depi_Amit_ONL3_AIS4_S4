@@ -1,8 +1,4 @@
 .env
 .venv
-<<<<<<< HEAD
 .vscode
 *.csv
-=======
-.vscode
->>>>>>> 5912e843ee3565703b3c23e78089cd5dcf952b3b
