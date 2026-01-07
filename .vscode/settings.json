@@ -3,6 +3,7 @@
         "comsomizable",
         "gini",
         "minkowski",
+        "multiclass",
         "Ultiplacation"
     ]
 }
